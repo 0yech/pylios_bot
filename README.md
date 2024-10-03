@@ -1,11 +1,13 @@
 # pylios_bot (DEPRECATED)
 Elsword Europe's official bot used for Mr.Mrs Elios contests.
-It currently shouldn't be used without any major modifications.
+Mr.Mrs Elios events were contests where players were given a theme and had to come up with an outfit accordingly. Members of Elsword's staff would then be the judges
+
+/!\ this project shouldn't be used without any major modifications.
 
 Current issues -
 
 - Too many users applying at once may cause a crash.
-- Uses slash commands in a now very old and outdated way.
+- Bot allows slash commands but in a now very old and outdated way.
 
 Elsword Europe's official Discord : https://discord.gg/elswordeurope
 
